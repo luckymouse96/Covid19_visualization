@@ -9,5 +9,5 @@
 ## Visualization dữ liệu covid Việt Nam và Thế giới:
 <ul>
 <li><a href= "https://github.com/luckymouse96/Covid19_visualization/blob/main/T%C3%ACnh%20h%C3%ACnh%20covid%20th%E1%BA%BF%20gi%E1%BB%9Bi.pbix"> Trực quan Thế giới: Tình hình covid thế giới.pbix </a> </li>
-<li><a href="https://github.com/luckymouse96/Covid19_visualization/blob/main/T%C3%ACnh%20h%C3%ACnh%20covid%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.pbix> Trực quan Việt Nam: Tình hình covid ở Việt Nam.pbix </a> </li>
+<li><a href="https://github.com/luckymouse96/Covid19_visualization/blob/main/T%C3%ACnh%20h%C3%ACnh%20covid%20%E1%BB%9F%20Vi%E1%BB%87t%20Nam.pbix> Trực quan Việt Nam: Tình hình covid ở Việt Nam.pbix" </a> </li>
 </ul>
